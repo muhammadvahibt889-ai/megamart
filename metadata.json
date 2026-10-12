@@ -1,0 +1,8 @@
+{
+  "name": "MegaMart — Online Marketplace",
+  "description": "Discover more and shop smarter at MegaMart, an online grocery and supermarket marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
